@@ -16,11 +16,9 @@ Alternatively, the Notebooks will also work in Google Colab, via the links below
 
 1. Pandas Refresh [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/01.%20Pandas%20Refresher.ipynb)
 2. Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/02.%20Data%20Analysis.ipynb)
-3. NumPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/03.%20NumPy.ipynb)
-4. Visualisation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/04.%20Visualisation.ipynb)
+3. Visualisation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/03.%20Visualisation.ipynb)
+4. Strategies [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/04.%20Strategies.ipynb)
 5. Panel Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/05.%20Panel%20Data.ipynb)
-6. Panel Visualisation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/06.%20Panel%20Visualisation.ipynb)
-7. Strategies [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/07.%20Strategies.ipynb)
 
 > [!NOTE]
 > You will need a GitHub account to access Codespaces, or a Google account to access Google Colab. Both accounts are free.
@@ -37,9 +35,7 @@ During the workshop, we'll be writing code into these Notebooks together. It is 
 
 * [Pandas Refresher](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/01.%20Pandas%20Refresher.ipynb)
 * [Data Analysis](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/02.%20Data%20Analysis.ipynb)
-* [NumPy](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/03.%20NumPy.ipynb)
-* [Visualisation](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/04.%20Visualisation.ipynb)
+* [Visualisation](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/03.%20Visualisation.ipynb)
+* [Strategies](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/04.%20Strategies.ipynb)
 * [Panel Data](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/05.%20Panel%20Data.ipynb)
-* [Panel Visualisation](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/06.%20Panel%20Visualisation.ipynb)
-* [Strategies](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/07.%20Strategies.ipynb)
 </details>
